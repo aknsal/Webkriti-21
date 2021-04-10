@@ -9,7 +9,7 @@ You Need to have [node](https://nodejs.org/en/download/), [npm](https://www.npmj
 
 After Installing these...
 
-1.  Clone the git git-hub repo in the directory you want to Run it.
+1.  Clone the github repository in the directory you want to Run it.
 
 `git clone https://github.com/aknsal/Webkriti-21.git`
 
