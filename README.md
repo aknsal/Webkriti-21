@@ -1,11 +1,11 @@
 # Webkriti-21
 ## Introduction
 This project is a web-apllication for all the Cultural Societies of IIIT-Allhabad.
-Admins can create accounts for users dynamically. 
-Users can login only if they have a account given by admins. 
+It contains list of Societies on homepage and a didicated page for ead\ch society showing Coordinators, Senior Members, members and Upcoming Events of the Society
+A user can also login to the page but cannot register by themselves.
 
 ## Run in local Machine
-You Need to have node, npm and mongodb server running in your local machine
+You Need to have [node](https://nodejs.org/en/download/), npm and mongodb installed in your local machine
 
 1.  Clone the git git-hub repo in the directory you want to Run it.
 
@@ -26,3 +26,6 @@ You Need to have node, npm and mongodb server running in your local machine
 5. In another terminal run
 
 `node app.js`
+
+##Hosted URL link
+https://warm-springs-76245.herokuapp.com/
