@@ -7,6 +7,8 @@ A user can also login to the page but cannot register by themselves.
 ## Run in local Machine
 You Need to have [node](https://nodejs.org/en/download/), [npm](https://www.npmjs.com/get-npm) and [mongodb](https://docs.mongodb.com/manual/installation/) installed in your local machine
 
+After Installing these...
+
 1.  Clone the git git-hub repo in the directory you want to Run it.
 
 `git clone https://github.com/aknsal/Webkriti-21.git`
